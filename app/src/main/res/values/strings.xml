@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SIT708_2.1P</string>
+
+    <string name="enter_value">Enter Value</string>
+    <string name="result">result</string>
+    <string name="currency">Currency</string>
+    <string name="fuel">Fuel</string>
+    <string name="temperature">Temperature</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>

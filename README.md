@@ -23,15 +23,16 @@ The application includes three main conversion functions: currency conversion, f
 
 ```text
 app/src/main/java/com.example.sit708_21p/
-
 ├── MainActivity.java
 ├── currency.java
 ├── fuel.java
 └── temperature.java
 
 app/src/main/res/layout/
-
 ├── activity_main.xml
 ├── activity_currency.xml
 ├── activity_fuel.xml
 └── activity_temperature.xml
+
+app/src/main/
+└── AndroidManifest.xml

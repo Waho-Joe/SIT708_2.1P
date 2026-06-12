@@ -32,13 +32,6 @@ app/src/main/java/com.example.sit708_21p/
 app/src/main/res/layout/
 
 ├── activity_main.xml
-│   └── Layout file for the main menu page.
-│
 ├── activity_currency.xml
-│   └── Layout file for the currency conversion page.
-│
 ├── activity_fuel.xml
-│   └── Layout file for the fuel conversion page.
-│
 └── activity_temperature.xml
-    └── Layout file for the temperature conversion page.
